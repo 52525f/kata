@@ -1,4 +1,4 @@
-package com.microfocus.kata;
+package kata;
 
 import java.util.Deque;
 import java.util.LinkedList;

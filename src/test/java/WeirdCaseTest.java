@@ -1,4 +1,4 @@
-package com.microfocus.kata;
+package kata;
 
 import org.testng.annotations.Test;
 

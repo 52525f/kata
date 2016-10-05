@@ -1,4 +1,4 @@
-package com.microfocus.kata;
+package kata;
 
 import java.util.ArrayList;
 import java.util.HashMap;
